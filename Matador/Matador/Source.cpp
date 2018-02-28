@@ -1,10 +1,10 @@
 #include <iostream>
-#include "Die.h"
+#include "Dice.h"
 
 using namespace std;
 
 void main()
 {
-	Die tern;
-	cout << tern.roll() << endl;
+	Dice raffle;
+	cout << raffle.throwDice() << endl;
 }

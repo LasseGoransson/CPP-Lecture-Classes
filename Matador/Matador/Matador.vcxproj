@@ -118,9 +118,11 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClInclude Include="Dice.h" />
     <ClInclude Include="Die.h" />
   </ItemGroup>
   <ItemGroup>
+    <ClCompile Include="Dice.cpp" />
     <ClCompile Include="Die.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
