@@ -1,7 +1,5 @@
 #include "Bil.h"
 
-
-
 Bil::Bil()
 {}
 
