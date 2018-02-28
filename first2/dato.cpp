@@ -98,13 +98,7 @@ bool dato::validate()
 		return false;
 	}
 
-
-
-
-
-
-
-
+	
 	return true;
 
 }
