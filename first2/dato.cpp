@@ -10,7 +10,6 @@ dato::dato(int endato)
 	datoen = endato;
 }
 
-
 int dato::getdatoen()
 {
 	return datoen;
