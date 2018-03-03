@@ -13,7 +13,7 @@ private:
 	Die die2;
 	
 	int latestrollDie1;
-	int latestrollDie2
+	int latestrollDie2;
 
 };
 

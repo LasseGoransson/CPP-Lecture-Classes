@@ -120,10 +120,12 @@
   <ItemGroup>
     <ClInclude Include="Dice.h" />
     <ClInclude Include="Die.h" />
+    <ClInclude Include="Field.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Dice.cpp" />
     <ClCompile Include="Die.cpp" />
+    <ClCompile Include="Field.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

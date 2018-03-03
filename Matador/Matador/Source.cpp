@@ -1,10 +1,13 @@
 #include <iostream>
 #include "Dice.h"
-
+#include "Field.h"
 using namespace std;
 
 void main()
 {
-	Dice raffle;
-	cout << raffle.throwDice() << endl;
+	
+	Field felt1(1, "Hus1");
+
+	
+
 }
