@@ -120,12 +120,16 @@
   <ItemGroup>
     <ClInclude Include="Dice.h" />
     <ClInclude Include="Die.h" />
+    <ClInclude Include="Driver.h" />
     <ClInclude Include="Field.h" />
+    <ClInclude Include="Player.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="Dice.cpp" />
     <ClCompile Include="Die.cpp" />
+    <ClCompile Include="Driver.cpp" />
     <ClCompile Include="Field.cpp" />
+    <ClCompile Include="Player.cpp" />
     <ClCompile Include="Source.cpp" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
